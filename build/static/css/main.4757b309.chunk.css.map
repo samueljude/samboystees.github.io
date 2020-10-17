@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.css"],"names":[],"mappings":"AAAA,4BAGE,eACF,CAEA,KACE,kBACF,CACA,QACE,cAAe,CACf,MAAO,CACP,QAAS,CACT,UAGF","file":"main.4757b309.chunk.css","sourcesContent":[".btn,\n.jumbotron,\n.nav :hover {\n  border-radius: 0px;\n}\n\nbody {\n  background: #343a40;\n}\n.footer {\n  position: fixed;\n  left: 0;\n  bottom: 0;\n  width: 100%;\n  \n \n}\n"]}
